@@ -1,0 +1,162 @@
+Licenza Apache
+Versione 2.0, gennaio 2004
+http://www.apache.org/licenses/
+
+TERMINI E CONDIZIONI PER L'USO, LA RIPRODUZIONE E LA DISTRIBUZIONE
+
+1. Definizioni.
+
+"Licenza" indica i termini e le condizioni per l'uso, la riproduzione e la distribuzione come definiti dalle Sezioni da 1 a 9 del presente documento.
+
+"Licenziante" indica il proprietario del copyright o l'entità autorizzata dal proprietario del copyright che concede la licenza.
+
+"Entità giuridica" indica l'unione dell'entità agente e di tutte le altre entità che controllano, sono controllate da o sono sotto il controllo comune di tale entità. Ai fini di questa definizione, "controllo" indica (i) il potere, diretto o indiretto, di causare la direzione o la gestione di tale entità, sia per contratto che in altro modo, o (ii) la proprietà del cinquanta percento (50%) o più delle azioni in circolazione, o (iii) la proprietà effettiva di tale entità.
+
+"Tu" (o "Tuo") si intende un individuo o un'entità legale che esercita i permessi concessi da questa licenza.
+
+Il formato "Sorgente" si intende il formato preferito per apportare modifiche,
+inclusi ma non limitati a codice sorgente software, sorgente documentazione e file di configurazione.
+
+Il formato "Oggetto" si intende qualsiasi formato risultante da trasformazione meccanica o traduzione di un formato Sorgente, inclusi ma non limitati a codice oggetto compilato, documentazione generata e conversioni in altri tipi di media.
+
+"Opera" si intende l'opera d'autore, sia in formato Sorgente che Oggetto, resa disponibile ai sensi della licenza, come indicato da un avviso di copyright incluso o allegato all'opera (un esempio è fornito nell'Appendice di seguito).
+
+"Opere derivate" si intende qualsiasi opera, sia in formato Sorgente che Oggetto, che si basa su (o deriva da) l'Opera e per la quale le revisioni editoriali, le annotazioni, le elaborazioni o altre modifiche rappresentano, nel loro insieme, un'opera d'autore originale. Ai fini
+della presente Licenza, le Opere derivate non includono opere che rimangono
+separabili da, o che si collegano semplicemente (o si legano per nome) alle interfacce di,
+l'Opera e le Opere derivate della stessa.
+
+"Contributo" significa qualsiasi opera d'autore, inclusa
+la versione originale dell'Opera e qualsiasi modifica o aggiunta
+a tale Opera o Opere derivate della stessa, che è intenzionalmente
+presentata al Licenziante per l'inclusione nell'Opera dal titolare del copyright
+o da una persona fisica o giuridica autorizzata a presentare per conto del
+titolare del copyright. Ai fini di questa definizione, "presentato"
+significa qualsiasi forma di comunicazione elettronica, verbale o scritta inviata
+al Licenziante o ai suoi rappresentanti, inclusi ma non limitati a
+comunicazioni su mailing list elettroniche, sistemi di controllo del codice sorgente e sistemi di tracciamento dei problemi che sono gestiti da, o per conto del, Licenziante allo scopo di discutere e migliorare l'Opera, ma
+escludendo la comunicazione che è marcata in modo evidente o altrimenti
+designata per iscritto dal titolare del copyright come "Non un Contributo".
+
+"Collaboratore" si intende il Licenziante e qualsiasi individuo o Entità Legale
+per conto del quale un Contributo è stato ricevuto dal Licenziante e
+successivamente incorporato nell'Opera.
+
+2. Concessione di Licenza di Copyright. Fatti salvi i termini e le condizioni di
+questa Licenza, ogni Collaboratore concede a Te una licenza di copyright perpetua,
+mondiale, non esclusiva, gratuita, esente da royalty, irrevocabile
+per riprodurre, preparare Opere Derivate di,
+mostrare pubblicamente, eseguire pubblicamente, concedere in sublicenza e distribuire l'Opera e tali Opere Derivate in formato Sorgente o Oggetto.
+
+3. Concessione di Licenza di Brevetto. Fatti salvi i termini e le condizioni di
+questa Licenza, ogni Collaboratore concede a Te una licenza di brevetto perpetua,
+mondiale, non esclusiva, gratuita, esente da royalty, irrevocabile
+(salvo quanto stabilito in questa sezione) per realizzare, far realizzare,
+utilizzare, offrire in vendita, vendere, importare e altrimenti trasferire l'Opera,
+laddove tale licenza si applichi solo a quelle rivendicazioni di brevetto licenziabili
+da tale Collaboratore che sono necessariamente violate dal/dai suo/i Contributo/i da solo/i o dalla combinazione del/i suo/i Contributo/i
+con l'Opera a cui tale/i Contributo/i è/sono stato/i presentato/i. Se
+avvii un contenzioso sui brevetti contro qualsiasi entità (inclusa una
+domanda riconvenzionale o una domanda riconvenzionale in una causa) sostenendo che l'Opera
+o un Contributo incorporato nell'Opera costituisce una violazione diretta
+o contributiva di brevetto, allora tutte le licenze di brevetto
+concesse a Te ai sensi di questa Licenza per quell'Opera cesseranno
+a partire dalla data in cui tale contenzioso viene presentato.
+
+4. Ridistribuzione. Puoi riprodurre e distribuire copie dell'
+Opera o delle Opere derivate in qualsiasi mezzo, con o senza
+modifiche, e in formato Sorgente o Oggetto, a condizione che
+si rispettino le seguenti condizioni:
+
+(a) si deve fornire a qualsiasi altro destinatario dell'Opera o
+delle Opere derivate una copia di questa Licenza; e
+
+(b) si deve far sì che tutti i file modificati riportino note evidenti
+che dichiarino che si sono modificati i file; e
+
+(c) si deve conservare, nel formato Sorgente di tutte le Opere derivate
+che si distribuiscono, tutti i diritti d'autore, brevetti, marchi e
+notifiche di attribuzione dal formato Sorgente dell'Opera,
+esclusi quegli avvisi che non riguardano alcuna parte delle
+Opere derivate; e
+
+(d) Se l'Opera include un file di testo "NOTICE" come parte della sua
+distribuzione, allora qualsiasi Opera derivata che distribuisci deve
+includere una copia leggibile delle note di attribuzione contenute
+in tale file NOTICE, escludendo quelle note che non
+riguardano alcuna parte delle Opere derivate, in almeno uno
+dei seguenti luoghi: all'interno di un file di testo NOTICE distribuito
+come parte delle Opere derivate; all'interno del modulo Sorgente o
+della documentazione, se fornito insieme alle Opere derivate; o,
+all'interno di una visualizzazione generata dalle Opere derivate, se e
+ovunque tali note di terze parti normalmente appaiono. Il contenuto
+del file NOTICE è solo a scopo informativo e
+non modifica la Licenza. Puoi aggiungere le tue note di attribuzione
+all'interno delle Opere derivate che distribuisci, insieme
+o come addendum al testo NOTICE dall'Opera, a condizione
+che tali note di attribuzione aggiuntive non possano essere interpretate
+come modifica della Licenza.
+
+Puoi aggiungere la tua dichiarazione di copyright alle tue modifiche e
+puoi fornire termini e condizioni di licenza aggiuntivi o diversi
+per l'uso, la riproduzione o la distribuzione delle tue modifiche, o
+per qualsiasi opera derivata nel suo complesso, a condizione che il tuo uso,
+la riproduzione e la distribuzione dell'opera siano altrimenti conformi
+alle condizioni stabilite in questa licenza.
+
+5. Presentazione di contributi. A meno che tu non dichiari esplicitamente diversamente,
+qualsiasi contributo intenzionalmente presentato per l'inclusione nell'opera
+da te al licenziante sarà soggetto ai termini e alle condizioni di
+questa licenza, senza termini o condizioni aggiuntivi.
+Nonostante quanto sopra, nulla nel presente documento sostituirà o modificherà
+i termini di qualsiasi contratto di licenza separato che potresti aver stipulato
+con il licenziante in merito a tali contributi.
+
+6. Marchi commerciali. Questa licenza non concede l'autorizzazione a utilizzare i nomi commerciali, i marchi commerciali, i marchi di servizio o i nomi di prodotto del licenziante,
+salvo quanto richiesto per un uso ragionevole e consuetudinario nella descrizione dell'origine dell'opera e nella riproduzione del contenuto del file NOTICE.
+
+7. Esclusione di garanzia. Salvo quanto richiesto dalla legge applicabile o concordato per iscritto, il Licenziante fornisce l'Opera (e ogni Collaboratore fornisce i propri Contributi) "COSÌ COM'È", SENZA GARANZIE O CONDIZIONI DI ALCUN TIPO, esplicite o implicite, incluse, senza limitazioni, garanzie o condizioni di TITOLO, NON VIOLAZIONE, COMMERCIABILITÀ o IDONEITÀ PER UNO SCOPO PARTICOLARE. Sei l'unico responsabile della determinazione dell'appropriatezza dell'utilizzo o della ridistribuzione dell'Opera e ti assumi tutti i rischi associati al tuo esercizio delle autorizzazioni ai sensi della presente Licenza. 8. Limitazione di responsabilità. In nessun caso e in base a nessuna teoria legale,
+sia per illecito civile (inclusa negligenza), contratto o altro,
+a meno che non richiesto dalla legge applicabile (come atti deliberati e gravemente negligenti) o concordato per iscritto, qualsiasi Collaboratore sarà
+responsabile nei tuoi confronti per danni, inclusi danni diretti, indiretti, speciali,
+incidentali o consequenziali di qualsiasi natura derivanti come
+risultato di questa Licenza o dall'uso o dall'impossibilità di utilizzare l'
+Opera (inclusi ma non limitati a danni per perdita di avviamento,
+interruzione del lavoro, guasto o malfunzionamento del computer o qualsiasi e tutti gli
+altri danni o perdite commerciali), anche se tale Collaboratore
+è stato informato della possibilità di tali danni.
+
+9. Accettazione della garanzia o responsabilità aggiuntiva. Durante la ridistribuzione
+dell'Opera o delle Opere derivate, puoi scegliere di offrire,
+e addebitare una commissione per, l'accettazione di supporto, garanzia, indennizzo,
+o altri obblighi di responsabilità e/o diritti coerenti con questa
+Licenza. Tuttavia, nell'accettare tali obblighi, puoi agire solo
+per tuo conto e sotto la tua esclusiva responsabilità, non per conto
+di alcun altro Collaboratore, e solo se accetti di indennizzare,
+difendere e tenere indenne ogni Collaboratore da qualsiasi responsabilità sostenuti da, o reclami fatti valere contro, tale Collaboratore in ragione
+dell'accettazione di tale garanzia o responsabilità aggiuntiva.
+
+FINE DEI TERMINI E DELLE CONDIZIONI
+
+APPENDICE: Come applicare la licenza Apache al tuo lavoro.
+
+Per applicare la licenza Apache al tuo lavoro, allega la seguente
+nota standard, con i campi racchiusi tra parentesi "[]"
+sostituiti con le tue informazioni identificative. (Non includere
+le parentesi!) Il testo deve essere racchiuso nella sintassi di commento appropriata per il formato del file. Consigliamo inoltre di includere un
+nome di file o classe e una descrizione dello scopo nella
+stessa "pagina stampata" della nota di copyright per una più facile
+identificazione all'interno di archivi di terze parti.
+
+Copyright 2025 Matty47ghigo
+
+Concesso in licenza ai sensi della licenza Apache, versione 2.0 (la "Licenza");
+non puoi utilizzare questo file se non in conformità con la licenza. È possibile ottenere una copia della licenza su
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+A meno che non sia richiesto dalla legge applicabile o concordato per iscritto, il software
+distribuito ai sensi della licenza è distribuito "COSÌ COM'È",
+SENZA GARANZIE O CONDIZIONI DI ALCUN TIPO, esplicite o implicite.
+Consultare la licenza per la lingua specifica che disciplina i permessi e le
+limitazioni ai sensi della licenza.

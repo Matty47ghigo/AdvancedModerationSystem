@@ -1,0 +1,35 @@
+# Configurazione di AdvancedModerationSystem
+
+# Impostazioni generali
+settings:
+  max-warns-before-ban: 3 # Numero massimo di warn prima del ban automatico
+  mute-message: "&cSei stato mutato sul server." # Messaggio mostrato al giocatore mutato
+  unmute-message: "&aSei stato smutato sul server." # Messaggio mostrato al giocatore smutato
+  tempmute-message: "&cSei stato mutato temporaneamente sul server." # Messaggio mostrato al giocatore mutato temporaneamente
+  warn-message: "&cHai ricevuto un avvertimento." # Messaggio mostrato al giocatore warnato
+  reset-warns-message: "&aGli avvertimenti sono stati resettati." # Messaggio mostrato quando i warn vengono resettati
+  broadcast-warn-message: true # Se true, il messaggio warn viene mostrato a tutti; se false, solo allo staff
+  broadcast-mute-message: true # Se true, il messaggio mute viene mostrato a tutti; se false, solo allo staff
+  broadcast-unmute-message: true # Se true, il messaggio unmute viene mostrato a tutti; se false, solo allo staff
+  broadcast-tempmute-message: true # Se true, il messaggio tempmute viene mostrato a tutti; se false, solo allo staff
+  staff-chat-prefix: "&9[StaffChat] &5%s&9: &f%s" # Formattazione della chat staff
+
+# Impostazioni dei colori per i messaggi
+colors:
+  separator: "&3" # Colore dei separatori nei messaggi formattati
+  label: "&e" # Colore delle etichette (Utente:, Stato:, Motivo:, Staff:)
+  value: "&f" # Colore dei valori (nome utente, motivo, staff)
+  warn-count-color: "&c" # Colore del conteggio warn (es. 1/3)
+  mute-state-color: "&4" # Colore dello stato mute (es. Mutato permanentemente o temporaneamente)
+
+# Impostazioni per il formato del messaggio /warnlist
+warnlist-format:
+  header: "&3======================\n&eLista degli avvertimenti per &f%s\n&eTotale Warn: &f%d\n&3----------------------"
+  warn-entry: "\n&eWarn #%d: &f%s\n&eStaff: &f%s\n&3----------------------"
+  footer: "\n&3======================"
+
+# Impostazioni per il formato del messaggio /mutelist
+mutelist-format:
+  header: "&3======================\n&eLista dei mute per &f%s\n&eStato: &f%s\n&eMotivo: &f%s\n&eStaff: &f%s\n&3----------------------"
+  mute-entry: "\n&eMute #%d: &f%s\n&eDurata: &f%s\n&eStaff: &f%s\n&3----------------------"
+  footer: "\n&3======================"

@@ -1,0 +1,60 @@
+name: AdvancedModerationSystem
+main: com.example.advancedModerationSystem.AdvancedModerationSystem
+version: '1.0.0'
+api-version: '1.21'
+
+permissions:
+  advancedmoderation.warn:
+    description: "Permesso per avvertire un giocatore"
+    default: op
+  advancedmoderation.resetwarns:
+    description: "Permesso per resettare gli avvertimenti di un giocatore"
+    default: op
+  advancedmoderation.warnlist:
+    description: "Permesso per visualizzare la lista degli avvertimenti"
+    default: op
+  advancedmoderation.staffchat:
+    description: "Permesso per usare la chat staff"
+    default: op
+  advancedmoderation.mute:
+    description: "Permesso per mutare un giocatore"
+    default: op
+  advancedmoderation.unmute:
+    description: "Permesso per smutare un giocatore"
+    default: op
+  advancedmoderation.tempmute:
+    description: "Permesso per mutare temporaneamente un giocatore"
+    default: op
+  advancedmoderation.viewmutes:
+    description: "Permesso per visualizzare i mute assegnati"
+    default: op
+
+commands:
+  warn:
+    description: "Avvertire un giocatore"
+    usage: "/warn <player> [reason]"
+    permission: advancedmoderation.warn
+  resetwarns:
+    description: "Resetta gli avvertimenti di un giocatore"
+    usage: "/resetwarns <player>"
+    permission: advancedmoderation.resetwarns
+  warnlist:
+    description: "Visualizza la lista degli avvertimenti di un giocatore"
+    usage: "/warnlist <player>"
+    permission: advancedmoderation.warnlist
+  staffchat:
+    description: "Usa la chat staff"
+    usage: "/staffchat <messaggio>"
+    permission: advancedmoderation.staffchat
+  mute:
+    description: "Mutare permanentemente un giocatore"
+    usage: "/mute <player> [reason]"
+    permission: advancedmoderation.mute
+  unmute:
+    description: "Smutare un giocatore"
+    usage: "/unmute <player>"
+    permission: advancedmoderation.unmute
+  tempmute:
+    description: "Mutare temporaneamente un giocatore"
+    usage: "/tempmute <player> <duration> [reason]"
+    permission: advancedmoderation.tempmute
